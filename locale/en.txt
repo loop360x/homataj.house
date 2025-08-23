@@ -5,7 +5,7 @@
 ### URL
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-LinkBehaviour_C6D40E3F_D82A_B60E_41DC_F9A9CBBECB3E.source = https://www.instagram.com/homataj_house?igsh=djd6ZnR3aTZjemg5
+LinkBehaviour_FC3C31D4_D826_8A12_41E7_AD23552ADF6D.source = https://www.instagram.com/homataj_house?igsh=djd6ZnR3aTZjemg5
 LinkBehaviour_C0863472_D82B_8A16_41CA_56E603779281.source = https://www.instagram.com/homataj_house?igsh=djd6ZnR3aTZjemg5
 
 ## Media
@@ -43,28 +43,32 @@ panorama_EDA4ED6B_CFFE_4317_41CC_5F025A995478.label = sky valadkhani
 ### Button
 Button_CBEC52C8_D826_70C0_41DB_6360C8D92F6D.label = CONTACT
 Button_CBEC52C8_D826_70C0_41DB_6360C8D92F6D_mobile.label = CONTACT
-Button_CD4B13E2_D82A_90C1_4154_4E1132304A54.label = Contact Information
-Button_CD4B13E2_D82A_90C1_4154_4E1132304A54_mobile.label = Contact Information
-Button_CBEC92C8_D826_70C0_41DD_2EFEA84EC2B7.label = LOCATION
+Button_C6306CDA_D8E6_BA16_41D9_438DCB3F14F4.label = Contact Information
+Button_C6306CDA_D8E6_BA16_41D9_438DCB3F14F4_mobile.label = Contact Information
+Button_FAC71629_D829_9632_41DD_3F3B0F0AEB3A.label = English
+Button_FAC71629_D829_9632_41DD_3F3B0F0AEB3A_mobile.label = English
 Button_CBEC92C8_D826_70C0_41DD_2EFEA84EC2B7_mobile.label = LOCATION
+Button_CBEC92C8_D826_70C0_41DD_2EFEA84EC2B7.label = LOCATION
 Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200_mobile.pressedLabel = Location
-Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200_mobile.label = Location
-Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200.pressedLabel = Location
 Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200.label = Location
+Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200.pressedLabel = Location
+Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200_mobile.label = Location
 Button_CBECA2C8_D826_70C0_41D1_4CB3151EFBF7.label = PANORAMA LIST
 Button_CBECA2C8_D826_70C0_41D1_4CB3151EFBF7_mobile.label = PANORAMA LIST
-Button_CBEC72C8_D826_70C0_41DE_1ED486D0CCD3_mobile.label = PHOTOALBUM
 Button_CBEC72C8_D826_70C0_41DE_1ED486D0CCD3.label = PHOTOALBUM
+Button_CBEC72C8_D826_70C0_41DE_1ED486D0CCD3_mobile.label = PHOTOALBUM
 Button_CD4B83E1_D82A_90C3_41E5_993990F7F0CE_mobile.label = Panorama List
 Button_CD4B83E1_D82A_90C3_41E5_993990F7F0CE.label = Panorama List
 Button_CD4B33E1_D82A_90C3_41DA_CEBF560B182A.label = Photoalbum
 Button_CD4B33E1_D82A_90C3_41DA_CEBF560B182A_mobile.label = Photoalbum
-Button_CBECB2C8_D826_70C0_41BF_749B5406F231_mobile.label = TOUR INFO
 Button_CBECB2C8_D826_70C0_41BF_749B5406F231.label = TOUR INFO
+Button_CBECB2C8_D826_70C0_41BF_749B5406F231_mobile.label = TOUR INFO
 Button_CD4BC3E1_D82A_90C3_41E4_73038DA490C5.label = Tour Information
 Button_CD4BC3E1_D82A_90C3_41E4_73038DA490C5_mobile.label = Tour Information
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
+Button_FA2E3F00_D82B_F7F1_41E3_7AFE62A4D96E_mobile.label = فارسی
+Button_FA2E3F00_D82B_F7F1_41E3_7AFE62A4D96E.label = فارسی
 
 ### Image
 Image_C0B04FA0_D839_9632_41E5_5C915F87DDBE.url = skin/Image_C0B04FA0_D839_9632_41E5_5C915F87DDBE_en.jpg
