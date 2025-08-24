@@ -20,7 +20,6 @@ LinkBehaviour_F3E22DB6_D829_9A11_41E7_B3710B06C281.source = https://www.instagra
 
 ### Tooltip
 HotspotPanoramaOverlayArea_FAF8308D_DB93_F253_418A_53C27503C34A.toolTip = menu
-HotspotPanoramaOverlayArea_FB5E1BC6_DB91_75D1_41DC_EBEB4FD5FABC.toolTip = مشاهده منو غذا
 
 ## Media
 
