@@ -16,11 +16,6 @@ LinkBehaviour_E9539FA3_D82E_7637_41E5_386B6DFB7834.source = https://www.instagra
 LinkBehaviour_CE6C24BB_DAED_B1AC_41D6_966B41201891.source = https://www.instagram.com/loop360x?igsh=c2ZuOWdvZmg1ejk3
 LinkBehaviour_F3E22DB6_D829_9A11_41E7_B3710B06C281.source = https://www.instagram.com/loop360x?igsh=c2ZuOWdvZmg1ejk3
 
-## Hotspot
-
-### Tooltip
-HotspotPanoramaOverlayArea_FAF8308D_DB93_F253_418A_53C27503C34A.toolTip = menu
-
 ## Media
 
 ### Audio
