@@ -13,7 +13,7 @@ LinkBehaviour_E9578FC9_D82E_7673_41D2_1EC06305B52D.source = https://www.instagra
 LinkBehaviour_C0863472_D82B_8A16_41CA_56E603779281.source = https://www.instagram.com/homataj_house?igsh=djd6ZnR3aTZjemg5
 LinkBehaviour_F0259B67_D826_BE3E_41E3_CB3BD36EFD36.source = https://www.instagram.com/loop360x?igsh=c2ZuOWdvZmg1ejk3
 LinkBehaviour_E9539FA3_D82E_7637_41E5_386B6DFB7834.source = https://www.instagram.com/loop360x?igsh=c2ZuOWdvZmg1ejk3
-LinkBehaviour_E95D8F8C_D82E_76F1_41BE_C32F31BC75C2.source = https://www.instagram.com/loop360x?igsh=c2ZuOWdvZmg1ejk3
+LinkBehaviour_CE6C24BB_DAED_B1AC_41D6_966B41201891.source = https://www.instagram.com/loop360x?igsh=c2ZuOWdvZmg1ejk3
 LinkBehaviour_F3E22DB6_D829_9A11_41E7_B3710B06C281.source = https://www.instagram.com/loop360x?igsh=c2ZuOWdvZmg1ejk3
 
 ## Media
@@ -62,32 +62,34 @@ panorama_C18118ED_D0C3_09E0_41E9_B4FE80ADBCB7.label = هماتاج
 ## Skin
 
 ### Button
-Button_FAC71629_D829_9632_41DD_3F3B0F0AEB3A.label = English
+Button_C8EC0C4D_DB2C_90E4_41B7_87C054BA7899.label = 09934302689
 Button_FAC71629_D829_9632_41DD_3F3B0F0AEB3A_mobile.label = English
+Button_FAC71629_D829_9632_41DD_3F3B0F0AEB3A.label = English
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_CD4B33E1_D82A_90C3_41DA_CEBF560B182A.label = آلبوم عکس
 Button_CD4B33E1_D82A_90C3_41DA_CEBF560B182A_mobile.label = آلبوم عکس
-Button_CBEC72C8_D826_70C0_41DE_1ED486D0CCD3_mobile.label = آلبوم عکس ها
 Button_CBEC72C8_D826_70C0_41DE_1ED486D0CCD3.label = آلبوم عکس ها
+Button_CBEC72C8_D826_70C0_41DE_1ED486D0CCD3_mobile.label = آلبوم عکس ها
 Button_CBEC52C8_D826_70C0_41DB_6360C8D92F6D_mobile.label = اطلاعات تماس
 Button_C6306CDA_D8E6_BA16_41D9_438DCB3F14F4.label = اطلاعات تماس
 Button_C6306CDA_D8E6_BA16_41D9_438DCB3F14F4_mobile.label = اطلاعات تماس
 Button_CBEC52C8_D826_70C0_41DB_6360C8D92F6D.label = اطلاعات تماس
-Button_CBECB2C8_D826_70C0_41BF_749B5406F231_mobile.label = سازنده تور مجازی
 Button_CD4BC3E1_D82A_90C3_41E4_73038DA490C5.label = سازنده تور مجازی
 Button_CBECB2C8_D826_70C0_41BF_749B5406F231.label = سازنده تور مجازی
-Button_CD4BC3E1_D82A_90C3_41E4_73038DA490C5_mobile.label = سازنده تور مجازی
-Button_FA2E3F00_D82B_F7F1_41E3_7AFE62A4D96E.label = فارسی
+Button_CBECB2C8_D826_70C0_41BF_749B5406F231_mobile.label = سازنده تور مجازی
+Button_CE6244B9_DAED_B1AC_41C4_E36EA3600811_mobile.label = سازنده تور مجازی
 Button_FA2E3F00_D82B_F7F1_41E3_7AFE62A4D96E_mobile.label = فارسی
-Button_CBECA2C8_D826_70C0_41D1_4CB3151EFBF7.label = لیست اسپات ها
-Button_CD4B83E1_D82A_90C3_41E5_993990F7F0CE_mobile.label = لیست اسپات ها
-Button_CBECA2C8_D826_70C0_41D1_4CB3151EFBF7_mobile.label = لیست اسپات ها
+Button_FA2E3F00_D82B_F7F1_41E3_7AFE62A4D96E.label = فارسی
 Button_CD4B83E1_D82A_90C3_41E5_993990F7F0CE.label = لیست اسپات ها
-Button_CBEC92C8_D826_70C0_41DD_2EFEA84EC2B7.label = مکان
+Button_CBECA2C8_D826_70C0_41D1_4CB3151EFBF7_mobile.label = لیست اسپات ها
+Button_CD4B83E1_D82A_90C3_41E5_993990F7F0CE_mobile.label = لیست اسپات ها
+Button_CBECA2C8_D826_70C0_41D1_4CB3151EFBF7.label = لیست اسپات ها
+Button_CD4BC3E1_D82A_90C3_41E4_73038DA490C5_mobile.label = منو غذا
 Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200_mobile.pressedLabel = مکان
-Button_CBEC92C8_D826_70C0_41DD_2EFEA84EC2B7_mobile.label = مکان
+Button_CBEC92C8_D826_70C0_41DD_2EFEA84EC2B7.label = مکان
 Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200.pressedLabel = مکان
+Button_CBEC92C8_D826_70C0_41DD_2EFEA84EC2B7_mobile.label = مکان
 Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200_mobile.label = مکان یابی
 Button_CD4B73E1_D82A_90C3_41D2_1F9A3CC5D200.label = مکان یابی
 
@@ -98,6 +100,7 @@ Image_CBECE2C7_D826_70C0_41D9_1BDA48768EBA.url = skin/Image_CBECE2C7_D826_70C0_4
 Image_CBECE2C7_D826_70C0_41D9_1BDA48768EBA_mobile.url = skin/Image_CBECE2C7_D826_70C0_41D9_1BDA48768EBA_mobile_fa.png
 Image_CD4803E0_D82A_90C1_41C6_0BAA90C28C96.url = skin/Image_CD4803E0_D82A_90C1_41C6_0BAA90C28C96_fa.jpg
 Image_CD4803E0_D82A_90C1_41C6_0BAA90C28C96_mobile.url = skin/Image_CD4803E0_D82A_90C1_41C6_0BAA90C28C96_mobile_fa.jpg
+Image_CE7166C6_DB2D_F1E4_41E9_E9893E5E4849.url = skin/Image_CE7166C6_DB2D_F1E4_41E9_E9893E5E4849_fa.jpg
 Image_CEC66622_D879_B341_41E3_D5B6E90727CC.url = skin/Image_CEC66622_D879_B341_41E3_D5B6E90727CC_fa.png
 Image_CEC66622_D879_B341_41E3_D5B6E90727CC_mobile.url = skin/Image_CEC66622_D879_B341_41E3_D5B6E90727CC_mobile_fa.png
 
@@ -124,7 +127,6 @@ HTMLText_CD4A03E2_D82A_90C1_41A3_2381FB4959CE_mobile.html = <div style="text-ali
 ## Tour
 
 ### Description
-tour.description = 
 
 ### Title
 tour.name = اقامتگاه بومگردی هماتاج
